@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exNotificacoes/1.0.0": {
+        "runtime": {
+          "exNotificacoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exNotificacoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

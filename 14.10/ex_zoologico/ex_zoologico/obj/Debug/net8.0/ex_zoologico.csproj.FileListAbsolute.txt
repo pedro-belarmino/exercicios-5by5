@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\bin\Debug\net8.0\ex_zoologico.exe
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\bin\Debug\net8.0\ex_zoologico.deps.json
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\bin\Debug\net8.0\ex_zoologico.runtimeconfig.json
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\bin\Debug\net8.0\ex_zoologico.dll
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\bin\Debug\net8.0\ex_zoologico.pdb
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\obj\Debug\net8.0\ex_zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\obj\Debug\net8.0\ex_zoologico.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\obj\Debug\net8.0\ex_zoologico.AssemblyInfo.cs
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\obj\Debug\net8.0\ex_zoologico.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\obj\Debug\net8.0\ex_zoologico.sourcelink.json
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\obj\Debug\net8.0\ex_zoologico.dll
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\obj\Debug\net8.0\refint\ex_zoologico.dll
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\obj\Debug\net8.0\ex_zoologico.pdb
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\obj\Debug\net8.0\ex_zoologico.genruntimeconfig.cache
+C:\Projects\exercicios-5by5-14.10\ex_zoologico\ex_zoologico\obj\Debug\net8.0\ref\ex_zoologico.dll

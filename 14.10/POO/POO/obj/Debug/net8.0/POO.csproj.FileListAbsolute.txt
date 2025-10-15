@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5-14.10\POO\POO\bin\Debug\net8.0\POO.exe
+C:\Projects\exercicios-5by5-14.10\POO\POO\bin\Debug\net8.0\POO.deps.json
+C:\Projects\exercicios-5by5-14.10\POO\POO\bin\Debug\net8.0\POO.runtimeconfig.json
+C:\Projects\exercicios-5by5-14.10\POO\POO\bin\Debug\net8.0\POO.dll
+C:\Projects\exercicios-5by5-14.10\POO\POO\bin\Debug\net8.0\POO.pdb
+C:\Projects\exercicios-5by5-14.10\POO\POO\obj\Debug\net8.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5-14.10\POO\POO\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5-14.10\POO\POO\obj\Debug\net8.0\POO.AssemblyInfo.cs
+C:\Projects\exercicios-5by5-14.10\POO\POO\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5-14.10\POO\POO\obj\Debug\net8.0\POO.sourcelink.json
+C:\Projects\exercicios-5by5-14.10\POO\POO\obj\Debug\net8.0\POO.dll
+C:\Projects\exercicios-5by5-14.10\POO\POO\obj\Debug\net8.0\refint\POO.dll
+C:\Projects\exercicios-5by5-14.10\POO\POO\obj\Debug\net8.0\POO.pdb
+C:\Projects\exercicios-5by5-14.10\POO\POO\obj\Debug\net8.0\POO.genruntimeconfig.cache
+C:\Projects\exercicios-5by5-14.10\POO\POO\obj\Debug\net8.0\ref\POO.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\exercicios-5by5-14.10\\ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88FBD21B-A32A-4026-9132-0463015496DE}|ex2\\ex2.csproj|c:\\projects\\exercicios-5by5-14.10\\ex2\\ex2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FBD21B-A32A-4026-9132-0463015496DE}|ex2\\ex2.csproj|solutionrelative:ex2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FBD21B-A32A-4026-9132-0463015496DE}|ex2\\ex2.csproj|c:\\projects\\exercicios-5by5-14.10\\ex2\\ex2\\pjemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FBD21B-A32A-4026-9132-0463015496DE}|ex2\\ex2.csproj|solutionrelative:ex2\\pjemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FBD21B-A32A-4026-9132-0463015496DE}|ex2\\ex2.csproj|c:\\projects\\exercicios-5by5-14.10\\ex2\\ex2\\cltemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FBD21B-A32A-4026-9132-0463015496DE}|ex2\\ex2.csproj|solutionrelative:ex2\\cltemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FBD21B-A32A-4026-9132-0463015496DE}|ex2\\ex2.csproj|c:\\projects\\exercicios-5by5-14.10\\ex2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FBD21B-A32A-4026-9132-0463015496DE}|ex2\\ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PJEmployee.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5-14.10\\ex2\\ex2\\PJEmployee.cs",
+              "RelativeDocumentMoniker": "ex2\\PJEmployee.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5-14.10\\ex2\\ex2\\PJEmployee.cs",
+              "RelativeToolTip": "ex2\\PJEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:13:08.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CLTEmployee.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5-14.10\\ex2\\ex2\\CLTEmployee.cs",
+              "RelativeDocumentMoniker": "ex2\\CLTEmployee.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5-14.10\\ex2\\ex2\\CLTEmployee.cs",
+              "RelativeToolTip": "ex2\\CLTEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:53:59.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5-14.10\\ex2\\ex2\\Employee.cs",
+              "RelativeDocumentMoniker": "ex2\\Employee.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5-14.10\\ex2\\ex2\\Employee.cs",
+              "RelativeToolTip": "ex2\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:32:36.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5-14.10\\ex2\\ex2\\Program.cs",
+              "RelativeDocumentMoniker": "ex2\\Program.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5-14.10\\ex2\\ex2\\Program.cs",
+              "RelativeToolTip": "ex2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:32:05.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

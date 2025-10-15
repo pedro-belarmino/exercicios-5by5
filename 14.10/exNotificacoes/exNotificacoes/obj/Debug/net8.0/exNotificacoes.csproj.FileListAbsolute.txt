@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\bin\Debug\net8.0\exNotificacoes.exe
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\bin\Debug\net8.0\exNotificacoes.deps.json
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\bin\Debug\net8.0\exNotificacoes.runtimeconfig.json
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\bin\Debug\net8.0\exNotificacoes.dll
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\bin\Debug\net8.0\exNotificacoes.pdb
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\obj\Debug\net8.0\exNotificacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\obj\Debug\net8.0\exNotificacoes.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\obj\Debug\net8.0\exNotificacoes.AssemblyInfo.cs
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\obj\Debug\net8.0\exNotificacoes.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\obj\Debug\net8.0\exNotificacoes.sourcelink.json
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\obj\Debug\net8.0\exNotificacoes.dll
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\obj\Debug\net8.0\refint\exNotificacoes.dll
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\obj\Debug\net8.0\exNotificacoes.pdb
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\obj\Debug\net8.0\exNotificacoes.genruntimeconfig.cache
+C:\Projects\exercicios-5by5-14.10\exNotificacoes\exNotificacoes\obj\Debug\net8.0\ref\exNotificacoes.dll

@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\bin\Debug\net8.0\exPagamento.exe
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\bin\Debug\net8.0\exPagamento.deps.json
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\bin\Debug\net8.0\exPagamento.runtimeconfig.json
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\bin\Debug\net8.0\exPagamento.dll
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\bin\Debug\net8.0\exPagamento.pdb
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\obj\Debug\net8.0\exPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\obj\Debug\net8.0\exPagamento.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\obj\Debug\net8.0\exPagamento.AssemblyInfo.cs
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\obj\Debug\net8.0\exPagamento.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\obj\Debug\net8.0\exPagamento.sourcelink.json
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\obj\Debug\net8.0\exPagamento.dll
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\obj\Debug\net8.0\refint\exPagamento.dll
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\obj\Debug\net8.0\exPagamento.pdb
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\obj\Debug\net8.0\exPagamento.genruntimeconfig.cache
+C:\Projects\exercicios-5by5-14.10\exPagamento\exPagamento\obj\Debug\net8.0\ref\exPagamento.dll
