@@ -1,0 +1,14 @@
+C:\Projects\exercicios_07.10\exercicios_07.10\obj\Debug\net9.0\exercicios_07.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios_07.10\exercicios_07.10\obj\Debug\net9.0\exercicios_07.10.AssemblyInfoInputs.cache
+C:\Projects\exercicios_07.10\exercicios_07.10\obj\Debug\net9.0\exercicios_07.10.AssemblyInfo.cs
+C:\Projects\exercicios_07.10\exercicios_07.10\obj\Debug\net9.0\exercicios_07.10.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios_07.10\exercicios_07.10\bin\Debug\net9.0\exercicios_07.10.exe
+C:\Projects\exercicios_07.10\exercicios_07.10\bin\Debug\net9.0\exercicios_07.10.deps.json
+C:\Projects\exercicios_07.10\exercicios_07.10\bin\Debug\net9.0\exercicios_07.10.runtimeconfig.json
+C:\Projects\exercicios_07.10\exercicios_07.10\bin\Debug\net9.0\exercicios_07.10.dll
+C:\Projects\exercicios_07.10\exercicios_07.10\bin\Debug\net9.0\exercicios_07.10.pdb
+C:\Projects\exercicios_07.10\exercicios_07.10\obj\Debug\net9.0\exercicios_07.10.dll
+C:\Projects\exercicios_07.10\exercicios_07.10\obj\Debug\net9.0\refint\exercicios_07.10.dll
+C:\Projects\exercicios_07.10\exercicios_07.10\obj\Debug\net9.0\exercicios_07.10.pdb
+C:\Projects\exercicios_07.10\exercicios_07.10\obj\Debug\net9.0\exercicios_07.10.genruntimeconfig.cache
+C:\Projects\exercicios_07.10\exercicios_07.10\obj\Debug\net9.0\ref\exercicios_07.10.dll
