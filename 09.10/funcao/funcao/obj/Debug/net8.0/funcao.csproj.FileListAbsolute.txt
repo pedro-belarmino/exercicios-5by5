@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\bin\Debug\net8.0\funcao.exe
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\bin\Debug\net8.0\funcao.deps.json
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\bin\Debug\net8.0\funcao.runtimeconfig.json
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\bin\Debug\net8.0\funcao.dll
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\bin\Debug\net8.0\funcao.pdb
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\obj\Debug\net8.0\funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\obj\Debug\net8.0\funcao.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\obj\Debug\net8.0\funcao.AssemblyInfo.cs
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\obj\Debug\net8.0\funcao.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\obj\Debug\net8.0\funcao.dll
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\obj\Debug\net8.0\refint\funcao.dll
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\obj\Debug\net8.0\funcao.pdb
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\obj\Debug\net8.0\funcao.genruntimeconfig.cache
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\obj\Debug\net8.0\ref\funcao.dll
+C:\Projects\exercicios-5by5-09.10\funcao\funcao\obj\Debug\net8.0\funcao.sourcelink.json

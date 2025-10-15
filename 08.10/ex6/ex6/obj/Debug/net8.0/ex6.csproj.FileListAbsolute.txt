@@ -1,0 +1,14 @@
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\bin\Debug\net8.0\ex6.exe
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\bin\Debug\net8.0\ex6.deps.json
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\bin\Debug\net8.0\ex6.runtimeconfig.json
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\bin\Debug\net8.0\ex6.dll
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\bin\Debug\net8.0\ex6.pdb
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\obj\Debug\net8.0\ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\obj\Debug\net8.0\ex6.AssemblyInfoInputs.cache
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\obj\Debug\net8.0\ex6.AssemblyInfo.cs
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\obj\Debug\net8.0\ex6.csproj.CoreCompileInputs.cache
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\obj\Debug\net8.0\ex6.dll
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\obj\Debug\net8.0\refint\ex6.dll
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\obj\Debug\net8.0\ex6.pdb
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\obj\Debug\net8.0\ex6.genruntimeconfig.cache
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex6\ex6\obj\Debug\net8.0\ref\ex6.dll

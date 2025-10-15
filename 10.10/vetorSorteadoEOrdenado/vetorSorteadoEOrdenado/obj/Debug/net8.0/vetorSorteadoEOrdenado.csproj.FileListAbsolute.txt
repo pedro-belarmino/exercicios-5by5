@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\bin\Debug\net8.0\vetorSorteadoEOrdenado.exe
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\bin\Debug\net8.0\vetorSorteadoEOrdenado.deps.json
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\bin\Debug\net8.0\vetorSorteadoEOrdenado.runtimeconfig.json
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\bin\Debug\net8.0\vetorSorteadoEOrdenado.dll
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\bin\Debug\net8.0\vetorSorteadoEOrdenado.pdb
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\obj\Debug\net8.0\vetorSorteadoEOrdenado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\obj\Debug\net8.0\vetorSorteadoEOrdenado.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\obj\Debug\net8.0\vetorSorteadoEOrdenado.AssemblyInfo.cs
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\obj\Debug\net8.0\vetorSorteadoEOrdenado.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\obj\Debug\net8.0\vetorSorteadoEOrdenado.sourcelink.json
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\obj\Debug\net8.0\vetorSorteadoEOrdenado.dll
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\obj\Debug\net8.0\refint\vetorSorteadoEOrdenado.dll
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\obj\Debug\net8.0\vetorSorteadoEOrdenado.pdb
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\obj\Debug\net8.0\vetorSorteadoEOrdenado.genruntimeconfig.cache
+C:\Projects\exercicios-5by5-10.10\vetorSorteadoEOrdenado\vetorSorteadoEOrdenado\obj\Debug\net8.0\ref\vetorSorteadoEOrdenado.dll

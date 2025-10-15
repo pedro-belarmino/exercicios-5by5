@@ -1,0 +1,14 @@
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\bin\Debug\net8.0\ex8.exe
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\bin\Debug\net8.0\ex8.deps.json
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\bin\Debug\net8.0\ex8.runtimeconfig.json
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\bin\Debug\net8.0\ex8.dll
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\bin\Debug\net8.0\ex8.pdb
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\obj\Debug\net8.0\ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\obj\Debug\net8.0\ex8.AssemblyInfoInputs.cache
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\obj\Debug\net8.0\ex8.AssemblyInfo.cs
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\obj\Debug\net8.0\ex8.csproj.CoreCompileInputs.cache
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\obj\Debug\net8.0\ex8.dll
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\obj\Debug\net8.0\refint\ex8.dll
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\obj\Debug\net8.0\ex8.pdb
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\obj\Debug\net8.0\ex8.genruntimeconfig.cache
+C:\PedroPessoal\Projects\exercicios-5by5-08.10\ex8\ex8\obj\Debug\net8.0\ref\ex8.dll

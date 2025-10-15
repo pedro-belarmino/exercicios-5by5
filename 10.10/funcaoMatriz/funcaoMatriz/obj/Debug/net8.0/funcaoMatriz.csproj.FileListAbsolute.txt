@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\bin\Debug\net8.0\funcaoMatriz.exe
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\bin\Debug\net8.0\funcaoMatriz.deps.json
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\bin\Debug\net8.0\funcaoMatriz.runtimeconfig.json
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\bin\Debug\net8.0\funcaoMatriz.dll
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\bin\Debug\net8.0\funcaoMatriz.pdb
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\obj\Debug\net8.0\funcaoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\obj\Debug\net8.0\funcaoMatriz.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\obj\Debug\net8.0\funcaoMatriz.AssemblyInfo.cs
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\obj\Debug\net8.0\funcaoMatriz.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\obj\Debug\net8.0\funcaoMatriz.sourcelink.json
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\obj\Debug\net8.0\funcaoMatriz.dll
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\obj\Debug\net8.0\refint\funcaoMatriz.dll
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\obj\Debug\net8.0\funcaoMatriz.pdb
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\obj\Debug\net8.0\funcaoMatriz.genruntimeconfig.cache
+C:\Projects\exercicios-5by5-10.10\funcaoMatriz\funcaoMatriz\obj\Debug\net8.0\ref\funcaoMatriz.dll

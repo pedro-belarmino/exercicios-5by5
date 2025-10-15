@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\exercicios-5by5-09.10\\array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95680C4C-A8D0-4645-94FD-2565B33A16BE}|array\\array.csproj|c:\\projects\\exercicios-5by5-09.10\\array\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95680C4C-A8D0-4645-94FD-2565B33A16BE}|array\\array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5-09.10\\array\\array\\Program.cs",
+              "RelativeDocumentMoniker": "array\\Program.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5-09.10\\array\\array\\Program.cs",
+              "RelativeToolTip": "array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:52:42.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\bin\Debug\net8.0\matrizBoletim.exe
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\bin\Debug\net8.0\matrizBoletim.deps.json
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\bin\Debug\net8.0\matrizBoletim.runtimeconfig.json
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\bin\Debug\net8.0\matrizBoletim.dll
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\bin\Debug\net8.0\matrizBoletim.pdb
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\obj\Debug\net8.0\matrizBoletim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\obj\Debug\net8.0\matrizBoletim.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\obj\Debug\net8.0\matrizBoletim.AssemblyInfo.cs
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\obj\Debug\net8.0\matrizBoletim.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\obj\Debug\net8.0\matrizBoletim.sourcelink.json
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\obj\Debug\net8.0\matrizBoletim.dll
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\obj\Debug\net8.0\refint\matrizBoletim.dll
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\obj\Debug\net8.0\matrizBoletim.pdb
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\obj\Debug\net8.0\matrizBoletim.genruntimeconfig.cache
+C:\Projects\exercicios-5by5-10.10\matrizBoletim\matrizBoletim\obj\Debug\net8.0\ref\matrizBoletim.dll
