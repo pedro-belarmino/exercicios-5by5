@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5\16.10\stack\stack\bin\Debug\net8.0\stack.exe
+C:\Projects\exercicios-5by5\16.10\stack\stack\bin\Debug\net8.0\stack.deps.json
+C:\Projects\exercicios-5by5\16.10\stack\stack\bin\Debug\net8.0\stack.runtimeconfig.json
+C:\Projects\exercicios-5by5\16.10\stack\stack\bin\Debug\net8.0\stack.dll
+C:\Projects\exercicios-5by5\16.10\stack\stack\bin\Debug\net8.0\stack.pdb
+C:\Projects\exercicios-5by5\16.10\stack\stack\obj\Debug\net8.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5\16.10\stack\stack\obj\Debug\net8.0\stack.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5\16.10\stack\stack\obj\Debug\net8.0\stack.AssemblyInfo.cs
+C:\Projects\exercicios-5by5\16.10\stack\stack\obj\Debug\net8.0\stack.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5\16.10\stack\stack\obj\Debug\net8.0\stack.sourcelink.json
+C:\Projects\exercicios-5by5\16.10\stack\stack\obj\Debug\net8.0\stack.dll
+C:\Projects\exercicios-5by5\16.10\stack\stack\obj\Debug\net8.0\refint\stack.dll
+C:\Projects\exercicios-5by5\16.10\stack\stack\obj\Debug\net8.0\stack.pdb
+C:\Projects\exercicios-5by5\16.10\stack\stack\obj\Debug\net8.0\stack.genruntimeconfig.cache
+C:\Projects\exercicios-5by5\16.10\stack\stack\obj\Debug\net8.0\ref\stack.dll
