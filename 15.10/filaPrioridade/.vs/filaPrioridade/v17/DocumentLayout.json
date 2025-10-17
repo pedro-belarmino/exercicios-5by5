@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\exercicios-5by5\\15.10\\filaPrioridade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F258CBEB-A3EA-4653-BA29-2AD89A80E9E3}|filaPrioridade\\filaPrioridade.csproj|c:\\projects\\exercicios-5by5\\15.10\\filaprioridade\\filaprioridade\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F258CBEB-A3EA-4653-BA29-2AD89A80E9E3}|filaPrioridade\\filaPrioridade.csproj|solutionrelative:filaprioridade\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F258CBEB-A3EA-4653-BA29-2AD89A80E9E3}|filaPrioridade\\filaPrioridade.csproj|c:\\projects\\exercicios-5by5\\15.10\\filaprioridade\\filaprioridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F258CBEB-A3EA-4653-BA29-2AD89A80E9E3}|filaPrioridade\\filaPrioridade.csproj|solutionrelative:filaprioridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F258CBEB-A3EA-4653-BA29-2AD89A80E9E3}|filaPrioridade\\filaPrioridade.csproj|c:\\projects\\exercicios-5by5\\15.10\\filaprioridade\\filaprioridade\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F258CBEB-A3EA-4653-BA29-2AD89A80E9E3}|filaPrioridade\\filaPrioridade.csproj|solutionrelative:filaprioridade\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F258CBEB-A3EA-4653-BA29-2AD89A80E9E3}|filaPrioridade\\filaPrioridade.csproj|c:\\projects\\exercicios-5by5\\15.10\\filaprioridade\\filaprioridade\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F258CBEB-A3EA-4653-BA29-2AD89A80E9E3}|filaPrioridade\\filaPrioridade.csproj|solutionrelative:filaprioridade\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5\\15.10\\filaPrioridade\\filaPrioridade\\Bank.cs",
+              "RelativeDocumentMoniker": "filaPrioridade\\Bank.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5\\15.10\\filaPrioridade\\filaPrioridade\\Bank.cs",
+              "RelativeToolTip": "filaPrioridade\\Bank.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:00:10.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5\\15.10\\filaPrioridade\\filaPrioridade\\Person.cs",
+              "RelativeDocumentMoniker": "filaPrioridade\\Person.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5\\15.10\\filaPrioridade\\filaPrioridade\\Person.cs",
+              "RelativeToolTip": "filaPrioridade\\Person.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:59:13.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5\\15.10\\filaPrioridade\\filaPrioridade\\Queue.cs",
+              "RelativeDocumentMoniker": "filaPrioridade\\Queue.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5\\15.10\\filaPrioridade\\filaPrioridade\\Queue.cs",
+              "RelativeToolTip": "filaPrioridade\\Queue.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:56:52.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5\\15.10\\filaPrioridade\\filaPrioridade\\Program.cs",
+              "RelativeDocumentMoniker": "filaPrioridade\\Program.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5\\15.10\\filaPrioridade\\filaPrioridade\\Program.cs",
+              "RelativeToolTip": "filaPrioridade\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:56:29.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
