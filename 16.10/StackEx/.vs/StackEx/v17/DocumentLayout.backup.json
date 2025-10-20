@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Projects\\exercicios-5by5\\16.10\\StackEx\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72C2D234-2C3D-4B56-A535-D8784A78D130}|StackEx\\StackEx.csproj|c:\\projects\\exercicios-5by5\\16.10\\stackex\\stackex\\textstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C2D234-2C3D-4B56-A535-D8784A78D130}|StackEx\\StackEx.csproj|solutionrelative:stackex\\textstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72C2D234-2C3D-4B56-A535-D8784A78D130}|StackEx\\StackEx.csproj|c:\\projects\\exercicios-5by5\\16.10\\stackex\\stackex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72C2D234-2C3D-4B56-A535-D8784A78D130}|StackEx\\StackEx.csproj|solutionrelative:stackex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C2D234-2C3D-4B56-A535-D8784A78D130}|StackEx\\StackEx.csproj|c:\\projects\\exercicios-5by5\\16.10\\stackex\\stackex\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C2D234-2C3D-4B56-A535-D8784A78D130}|StackEx\\StackEx.csproj|solutionrelative:stackex\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TextStack.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5\\16.10\\StackEx\\StackEx\\TextStack.cs",
+              "RelativeDocumentMoniker": "StackEx\\TextStack.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5\\16.10\\StackEx\\StackEx\\TextStack.cs",
+              "RelativeToolTip": "StackEx\\TextStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:59:57.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Text.cs",
+              "DocumentMoniker": "C:\\Projects\\exercicios-5by5\\16.10\\StackEx\\StackEx\\Text.cs",
+              "RelativeDocumentMoniker": "StackEx\\Text.cs",
+              "ToolTip": "C:\\Projects\\exercicios-5by5\\16.10\\StackEx\\StackEx\\Text.cs",
+              "RelativeToolTip": "StackEx\\Text.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:56:20.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\exercicios-5by5\\16.10\\StackEx\\StackEx\\Program.cs",
               "RelativeDocumentMoniker": "StackEx\\Program.cs",

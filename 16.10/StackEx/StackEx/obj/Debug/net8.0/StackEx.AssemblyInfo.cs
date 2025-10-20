@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e6b81574e9be57ecf5084eca4827919fa1410b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f757f7dfbeed1ce4f02e75bb726d67bc94dd0590")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

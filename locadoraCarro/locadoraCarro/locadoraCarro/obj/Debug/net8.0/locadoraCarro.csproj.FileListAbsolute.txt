@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\bin\Debug\net8.0\locadoraCarro.exe
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\bin\Debug\net8.0\locadoraCarro.deps.json
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\bin\Debug\net8.0\locadoraCarro.runtimeconfig.json
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\bin\Debug\net8.0\locadoraCarro.dll
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\bin\Debug\net8.0\locadoraCarro.pdb
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\obj\Debug\net8.0\locadoraCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\obj\Debug\net8.0\locadoraCarro.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\obj\Debug\net8.0\locadoraCarro.AssemblyInfo.cs
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\obj\Debug\net8.0\locadoraCarro.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\obj\Debug\net8.0\locadoraCarro.sourcelink.json
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\obj\Debug\net8.0\locadoraCarro.dll
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\obj\Debug\net8.0\refint\locadoraCarro.dll
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\obj\Debug\net8.0\locadoraCarro.pdb
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\obj\Debug\net8.0\locadoraCarro.genruntimeconfig.cache
+C:\Projects\exercicios-5by5\locadoraCarro\locadoraCarro\locadoraCarro\obj\Debug\net8.0\ref\locadoraCarro.dll
