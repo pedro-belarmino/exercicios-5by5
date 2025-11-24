@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\bin\Debug\net9.0\Bookshelf.exe
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\bin\Debug\net9.0\Bookshelf.deps.json
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\bin\Debug\net9.0\Bookshelf.runtimeconfig.json
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\bin\Debug\net9.0\Bookshelf.dll
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\bin\Debug\net9.0\Bookshelf.pdb
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\obj\Debug\net9.0\Bookshelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\obj\Debug\net9.0\Bookshelf.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\obj\Debug\net9.0\Bookshelf.AssemblyInfo.cs
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\obj\Debug\net9.0\Bookshelf.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\obj\Debug\net9.0\Bookshelf.sourcelink.json
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\obj\Debug\net9.0\Bookshelf.dll
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\obj\Debug\net9.0\refint\Bookshelf.dll
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\obj\Debug\net9.0\Bookshelf.pdb
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\obj\Debug\net9.0\Bookshelf.genruntimeconfig.cache
+C:\Projects\exercicios-5by5\21.10\Bookshelf\Bookshelf\obj\Debug\net9.0\ref\Bookshelf.dll

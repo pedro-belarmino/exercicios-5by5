@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\bin\Debug\net9.0\manipulacaoTexto.exe
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\bin\Debug\net9.0\manipulacaoTexto.deps.json
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\bin\Debug\net9.0\manipulacaoTexto.runtimeconfig.json
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\bin\Debug\net9.0\manipulacaoTexto.dll
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\bin\Debug\net9.0\manipulacaoTexto.pdb
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\obj\Debug\net9.0\manipulacaoTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\obj\Debug\net9.0\manipulacaoTexto.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\obj\Debug\net9.0\manipulacaoTexto.AssemblyInfo.cs
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\obj\Debug\net9.0\manipulacaoTexto.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\obj\Debug\net9.0\manipulacaoTexto.sourcelink.json
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\obj\Debug\net9.0\manipulacaoTexto.dll
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\obj\Debug\net9.0\refint\manipulacaoTexto.dll
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\obj\Debug\net9.0\manipulacaoTexto.pdb
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\obj\Debug\net9.0\manipulacaoTexto.genruntimeconfig.cache
+C:\Projects\exercicios-5by5\21.10\manipulacaoTexto\manipulacaoTexto\obj\Debug\net9.0\ref\manipulacaoTexto.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("filaPrioridade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e6b81574e9be57ecf5084eca4827919fa1410b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af5b73658c006ecbe2a2d597286c93b0b4e28f5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("filaPrioridade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("filaPrioridade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

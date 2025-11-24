@@ -1,0 +1,15 @@
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\bin\Debug\net9.0\CarrosArquivo.exe
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\bin\Debug\net9.0\CarrosArquivo.deps.json
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\bin\Debug\net9.0\CarrosArquivo.runtimeconfig.json
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\bin\Debug\net9.0\CarrosArquivo.dll
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\bin\Debug\net9.0\CarrosArquivo.pdb
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\obj\Debug\net9.0\CarrosArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\obj\Debug\net9.0\CarrosArquivo.AssemblyInfoInputs.cache
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\obj\Debug\net9.0\CarrosArquivo.AssemblyInfo.cs
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\obj\Debug\net9.0\CarrosArquivo.csproj.CoreCompileInputs.cache
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\obj\Debug\net9.0\CarrosArquivo.sourcelink.json
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\obj\Debug\net9.0\CarrosArquivo.dll
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\obj\Debug\net9.0\refint\CarrosArquivo.dll
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\obj\Debug\net9.0\CarrosArquivo.pdb
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\obj\Debug\net9.0\CarrosArquivo.genruntimeconfig.cache
+C:\Projects\exercicios-5by5\22.10\CarrosArquivo\CarrosArquivo\obj\Debug\net9.0\ref\CarrosArquivo.dll
