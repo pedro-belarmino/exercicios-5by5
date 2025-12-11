@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FlightTickets.Models/FlightTickets.Models.csproj" Id="092e74e6-79ce-4ce3-9d2c-0cce51eefa48" />
+  <Project Path="FlightTickets.OrderAPI/FlightTickets.OrderAPI.csproj" Id="7218941d-9d95-4827-b32c-3ff6e4eec720" />
+  <Project Path="FlightTickets.PaymentAPI/FlightTickets.PaymentAPI.csproj" Id="876ffaab-2402-4cc8-995d-ed825b1664ab" />
+  <Project Path="FlightTickets.Test1/FlightTickets.Tests.csproj" Id="94d4187e-6fa2-4363-901c-439dea9de1db" />
+  <Project Path="FlightTickets/FlightTickets.ConsumerAPI.csproj" />
+</Solution>
